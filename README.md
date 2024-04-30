@@ -7,10 +7,9 @@
 </p>
 
 ## 🌱 Skills
-| Language | Tools   | Learning |
-|----------|---------|----------|
-| [![Language](https://skillicons.dev/icons?i=py,c&theme=light)](https://www.typescriptlang.org/) | [![Tools](https://skillicons.dev/icons?i=git,github&theme=light)](https://www.typescriptlang.org/) | [![Learning](https://skillicons.dev/icons?i=flutter,c#,rust&theme=light)](https://www.typescriptlang.org/) |
-
+| Language | Tools   | IDE   | Learning |
+|----------|---------|----------|----------|
+| [![Language](https://skillicons.dev/icons?i=py,c&theme=light)](https://www.typescriptlang.org/) |  [![Tools](https://skillicons.dev/icons?i=git,github,figma,notion&theme=light)](https://www.typescriptlang.org/) |   [![IDE](https://skillicons.dev/icons?i=vscode,windows&theme=light)](https://www.typescriptlang.org/) |   [![Learning](https://skillicons.dev/icons?i=flutter,cs,rust&theme=light)](https://www.typescriptlang.org/) |
 
 
   
