@@ -9,26 +9,25 @@
 
 ## Projects
   
-[![Python|aMAZEing](https://img.shields.io/badge/Python-aMAZEing-1f3b4d?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://github.com/ren255/aMAZEing)  
-自動生成された迷路を解くゲームです。
+[![Python|aMAZEing](https://img.shields.io/badge/Python-aMAZEing-1f3b4d?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://github.com/ren255/aMAZEing)  #py #pygame #local  
+自動生成された迷路を解くゲームです。開発は停止しました。
 
-![JavaScript|Adv2DProjectileSim](https://img.shields.io/badge/JavaScript-Adv2DProjectileSim-1f3b4d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)  
-GeoGebraを使用して放物線運動,空気抵抗,非弾性衝突を組み合わせた物体の2Dシミュレーションを作成しました。初期位置,角度、抗力係数 (k)、反発係数 (e) を調整できます。
+![JavaScript|Adv2DProjectileSim](https://img.shields.io/badge/JavaScript-Adv2DProjectileSim-1f3b4d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)  #js #GeoGebra #site  
+GeoGebraを使用して放物線運動,空気抵抗,非弾性衝突を組み合わせた物体の2Dシミュレーションです。初期位置,角度、抗力係数 (k)、反発係数 (e) 等を調整できます。
 
 ### Work in Progress
 
 #### Projects
-[![Python|quizeket-scraping](https://img.shields.io/badge/Python-quizeket2Anki-1f3b4d?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://github.com/ren255/quizeket-scraping) #anki-addon  
-[Quizlet to Anki 2.1](https://ankiweb.net/shared/info/1362209126)のアップデートです。元のアドオンは一つのセットにしか対応していないため、デッキ,フォルダ,クラスに対応させます。
+[![Python|quizeket-scraping](https://img.shields.io/badge/Python-quizeket2Anki-1f3b4d?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://github.com/ren255/quizeket-scraping)  #py #anki-addon  
+デジタルフラシュカードソフトAnkiのアドオン[Quizlet to Anki 2.1](https://ankiweb.net/shared/info/1362209126)というのアップデートです。元のアドオンは一つのqizletのセットをankiデッキに変換できます。ですが、フォルダ,クラスに対応していません。対応させることで、自分の集めた数百のセットをAnkiに移行させることが出来ます。
 
 #### ideas  
-* リンガポルタスクレイピング
-  リンガポルタからCOCETの例文を取得します。
-* Ankify scanner
-  単語帳のスキャンからOCRとLLMを使用してフラシュカードを作成します。
-* 面接シュミレーター
-  英検や受験面接の練習用です。複数のエージェントを使用して評価します。
-
+* **面接シュミレーター**  #flutter #モバイル  
+  英検や受験面接の練習用です。LLMひとつでは評価等できないので、複数のLLMエージェントを使用して得点を算出します。サーバーサイドで処理を行います。大きな部分がLLMではなくアルゴリズムでコントロールされることになります。
+* **Ankify scanner**  #web  
+  単語帳のスキャンからOCRとLLMを使用してフラシュカードを作成します。スマホでスキャンした結果をサーバーに送り処理してからPCでwebsiteからAnkiデッキ/CSV等を受け取ります。翻訳/音声fileをつける機能も入れます。
+* **リンガポルタスクレイピング** #local  
+  リンガポルタからCOCETの例文を取得します。Ankiでフラシュカードを作成するためです。
 
  ## 📈 statistics
    
