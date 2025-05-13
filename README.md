@@ -5,7 +5,7 @@
 ## 🌱 Skills
 | Language | IDE   | Learning |
 |----------|----------|----------|
-| [![Language](https://skillicons.dev/icons?i=py,c,js&theme=light)](https://www.typescriptlang.org/) | [![IDE](https://skillicons.dev/icons?i=vscode,windows&theme=light)](https://www.typescriptlang.org/) | [![Learning](https://skillicons.dev/icons?i=remix,mysql&theme=light)](https://www.typescriptlang.org/) |
+| [![Language](https://skillicons.dev/icons?i=py,c,cpp,js&theme=light)](https://www.typescriptlang.org/) | [![IDE](https://skillicons.dev/icons?i=vscode,windows&theme=light)](https://www.typescriptlang.org/) | [![Learning](https://skillicons.dev/icons?i=remix,mysql&theme=light)](https://www.typescriptlang.org/) |
 
 
 ## Projects
