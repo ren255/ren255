@@ -1,10 +1,11 @@
 <p align="center">
+  <img src="https://img.shields.io/github/last-commit/ren255/ren255?label=Last%20Commit" alt="Last Commit" />
   <a href="https://wakatime.com/@6464fe21-d56f-40a2-899d-b4f77883e878">
     <img src="https://wakatime.com/badge/user/6464fe21-d56f-40a2-899d-b4f77883e878.svg" alt="Total time coded since Apr 26 2024" />
   </a>
-  <img src="https://img.shields.io/github/followers/ren255?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ren255?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
   <img src="https://komarev.com/ghpvc/?username=ren255&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/ren255?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/ren255?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
   
