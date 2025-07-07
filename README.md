@@ -23,6 +23,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-003778?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ![PIC](https://img.shields.io/badge/-PIC-003366?)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
@@ -43,7 +45,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white)
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
@@ -58,6 +59,7 @@
 GeoGebraを使用して放物線運動,空気抵抗,非弾性衝突を組み合わせた物体の2Dシミュレーションです。初期位置,角度、抗力係数 (k)、反発係数 (e) 等を調整できます。
 
  ## 📈 statistics
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starkoka&column=7&theme=onedark&margin-w=10&margin-h=10" alt="starkoka" /></a>
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ren255&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren255&theme=github_dark)
