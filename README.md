@@ -61,5 +61,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ren255&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ren255&theme=github_dark&utcOffset=9)
 
-
 ![Metrics](https://raw.githubusercontent.com/ren255/ren255/master/github-metrics.svg)
