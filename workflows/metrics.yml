@@ -55,3 +55,4 @@ jobs:
           plugin_sponsorships_sections: amount, sponsorships
           plugin_sponsorships_size: 24
           repositories_forks: yes
+
